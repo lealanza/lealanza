@@ -3,14 +3,8 @@
 
 <!-- Copy-paste in your Readme.md file -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=535&lines=Hello!+I'm+Leandro+Lanza%2C+a+Web+Developer." alt="Typing SVG" /></a>
-<!-- Copy-paste in your Readme.md file -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apilealanza=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=99040671&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=99040671&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @lealanza" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=99040671&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=99040671" target="_blank" style="display: block" align="center">
