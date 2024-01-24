@@ -3,7 +3,7 @@
 
 <!-- Copy-paste in your Readme.md file -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=535&lines=Hello!+I'm+Leandro+Lanza%2C+a+Web+Developer." alt="Typing SVG" /></a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apilealanza=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
@@ -14,8 +14,7 @@
   </picture>
 </a>
 
-
-
+![Lean GitHub stats](https://github-readme-stats.vercel.app/api?username=lealanza&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!--
 **lealanza/lealanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
