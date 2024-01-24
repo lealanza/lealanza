@@ -13,7 +13,7 @@
     <img alt="Dashboard stats of @lealanza" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=99040671&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-[![Leandro Lanza GitHub stats](https://github-readme-stats.vercel.app/api?username=lealanza)](https://github.com/anuraghazra/github-readme-stats)
+![lean GitHub stats](https://github-readme-stats.vercel.app/api?username=lealanza&show_icons=true)
 <!--
 **lealanza/lealanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
